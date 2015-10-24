@@ -35,7 +35,7 @@ CRLF & unlimited | CRLF & limited | no CRLF & unlimited| no CRLF & limited
 
 ## Email
 
-Validate emails.
+Email address.
 
 CRLF & usual domain | no CRLF & usual domain | CRLF & unusual domain | no CRLF & unusual domain
 ------------ | ------------- | ------------ | -------------
@@ -61,7 +61,7 @@ Must contain letters, numbers and symbols, lenght limited.
 
 ## CellPhoneNumber
 
-Chinese cell phone number.
+Chinese cell phone number， contain country number.
 
 ^(0|86|17951)?(13[0-9]|15[012356789]|17[0678]|18[0-9]|14[57])[0-9]{8}$
 
